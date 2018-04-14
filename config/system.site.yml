@@ -1,0 +1,14 @@
+uuid: d47330a3-87f1-4f72-ae67-579c8988d573
+name: eurobrands
+mail: eladio@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
